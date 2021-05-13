@@ -18,6 +18,15 @@ acordo com as configurações do seu banco de dados.
 
 ![image](https://user-images.githubusercontent.com/34312201/118130873-3b0bcd80-b3d4-11eb-8b70-12a34213038c.png)
 
-#Modificação futuras
+# Modificação futuras
+
+• Utilização de padrões arquiteturais e de projeto;  
+• Testes automatizados;  
+• A utilização de um gerenciador de pacotes.   
 
 #Problemas Conhecidos
+
+• O aplicação gera números de inscrição de aleatórios, apesar da grande dificuldade de gerar codigos iguais não tratativa para esse problema.
+• A aplicação informa o primeiro número de pesquisa encontrado, caso haja duplicidade no banco de dados apenas um será mostrado e a aplicação 
+não trata esse problema.
+
