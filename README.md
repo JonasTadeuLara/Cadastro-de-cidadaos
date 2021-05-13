@@ -24,7 +24,7 @@ acordo com as configurações do seu banco de dados.
 • Testes automatizados;  
 • A utilização de um gerenciador de pacotes.   
 
-#Problemas Conhecidos
+# Problemas Conhecidos
 
 • O aplicação gera números de inscrição de aleatórios, apesar da grande dificuldade de gerar codigos iguais não tratativa para esse problema.
 • A aplicação informa o primeiro número de pesquisa encontrado, caso haja duplicidade no banco de dados apenas um será mostrado e a aplicação 
